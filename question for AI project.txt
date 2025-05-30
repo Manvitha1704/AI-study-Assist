@@ -1,0 +1,20 @@
+एक वस्तु 72 km/h की चाल से चल रही है। वह कितनी दूरी तय करेगी यदि वह 2 घंटे तक चले?
+
+
+
+
+
+
+నీటిలో కార్బన్ డై ఆక్సైడ్ (CO2) కరిగిపోతే ఏమి జరుగుతుంది?
+
+
+
+streamlit run app.py
+pip install -r requirements.txt
+ and a few also when we run you will understand, 
+run in venv "venv\Scripts\activate     # Windows  "
+pip install pytesseract pillow  
+run in 3.12 only
+set AIzaSyACwPlnTCOgxDQQh80g_DNld7cj590bjW0 
+pip install PyAudio     
+pip install googletrans
